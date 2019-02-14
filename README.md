@@ -5,6 +5,9 @@ Businesses are constantly seeking new customers to purchase their products. They
 
 ### Code Sections (in order)
 **Part 1: Data Wrangling / Cleaning** - capstone1-wrangling
+<br>
 **Part 2: Exploratory Data Analysis** - capstone1-eda
+<br>
 **Part 3: Inferential Statistics** - capstone1-is
+<br>
 **Part 4: Machine Learning** - capstone1-ml
